@@ -19,7 +19,8 @@
 ```@"
 listener 1884 0.0.0.0
 allow_anonymous true
-"@ | Set-Content -Encoding ascii mosquitto_lan.conf```
+"@ | Set-Content -Encoding ascii mosquitto_lan.conf
+```
 
 2. Confirm your Wi-Fi IPv4:
 
