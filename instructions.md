@@ -55,7 +55,7 @@ allow_anonymous true
 ### Start the chat
 1. Device A: 
 
-```py mqtt_combined.py a```
+```py mqtt_combined.py a --broker <A's IPv4>```
 
 2. Device B:
 
